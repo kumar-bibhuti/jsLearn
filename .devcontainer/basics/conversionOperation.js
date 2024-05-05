@@ -22,5 +22,19 @@ let number = 22
 
 let stringNumber = String(number)
 
-console.log(stringNumber)
-console.log(typeof stringNumber)
+//console.log(stringNumber)
+//console.log(typeof stringNumber)
+
+// **************************operations***************************
+
+let value = 3
+let negvalue = -value
+//console.log(negvalue)
+
+//console.log(2 + "2");
+//console.log("2" + 2);
+//console.log(2 + 2 + "2");
+
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
